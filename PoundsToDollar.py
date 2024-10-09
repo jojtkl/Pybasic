@@ -5,7 +5,7 @@ Write Python code that prints your name, student number and email address. An ex
 #print('Guruunni@gmail.com')
 '''Exercise 2 
 Write Python code that prints your name, student number and email address using escape sequences.'''
-print('Bob\nST1001\nbob@gmail.com')
+#print('Bob\nST1001\nbob@gmail.com')
 '''Exercise 3 
 Write Python code that add, subtract, multiply and divide the two numbers. 
 You can use the two numbers 14 and 7. An example run of the program: 14 + 7 = 21 14 * 7 = 98 14 – 7 = 7 14 / 7 = 2'''
@@ -22,7 +22,7 @@ Write Python code that displays the numbers from 1 to 5 as steps.'''
 
 '''Exercise 5 
 Write Python code that outputs the following sentence (including the quotation marks and line break) to the screen: '''
-print('\"SDK\" stands for \"Software Development Kit\", whereas \n\"IDE\" stands for \"Integrated Development Environment\" ')
+#print('\"SDK\" stands for \"Software Development Kit\", whereas \n\"IDE\" stands for \"Integrated Development Environment\" ')
 '''Exercise 6 
 Practice and check the output'''
 #print("python is an \"awesome\" language.")
@@ -43,9 +43,9 @@ print(type(Integer))
 String="61"
 print(type(String))
 Decimal=91.3
-print(type(Decimal))'''
+print(type(Decimal))
 x=integer+int(String)+Decimal
-print(x)
+print(x)'''
 
 '''Exercise 8 
 calculate the number of minutes in a year using variables for each unit of time. print a statement that describes what your code does also. Create three variables to store no of days in a year, minute in a hour, hours in a day, then calculate the total minutes in a year and print the values (hint) total number of minutes in an year =No.of days in an year * Hours in a day * Minutes in an hour'''
