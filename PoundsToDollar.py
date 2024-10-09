@@ -44,6 +44,8 @@ String="61"
 print(type(String))
 Decimal=91.3
 print(type(Decimal))'''
+x=integer+int(String)+Decimal
+print(x)
 
 '''Exercise 8 
 calculate the number of minutes in a year using variables for each unit of time. print a statement that describes what your code does also. Create three variables to store no of days in a year, minute in a hour, hours in a day, then calculate the total minutes in a year and print the values (hint) total number of minutes in an year =No.of days in an year * Hours in a day * Minutes in an hour'''
